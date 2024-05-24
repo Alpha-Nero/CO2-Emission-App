@@ -1,0 +1,15 @@
+.topbar .topbar-left .logo >img {
+    line-height: 70px;
+    max-width: 167px;
+    margin-top: -14px;
+    margin-left:-34px;
+}
+.topbar .topbar-left{
+	text-align: left;
+	padding-left: 20px;
+	
+}
+body #sidebar-menu > ul > li > a {
+    font-weight: 400;
+    font-size: 0.85rem;
+}

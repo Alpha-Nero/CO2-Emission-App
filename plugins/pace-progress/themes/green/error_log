@@ -1,0 +1,5 @@
+[08-May-2023 04:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/pace-progress/themes/green/xsfjgdyo.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/pace-progress/themes/green/xsfjgdyo.php on line 1
+[16-May-2023 05:09:17 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/pace-progress/themes/green/analytics.php on line 1

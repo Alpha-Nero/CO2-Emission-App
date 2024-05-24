@@ -1,0 +1,9 @@
+[08-May-2023 04:42:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_rarray14() in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/dist/css/alt/db_info.inc.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/dist/css/alt/db_info.inc.php on line 2
+[08-May-2023 07:39:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/dist/css/alt/graphfactory.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/dist/css/alt/graphfactory.php on line 2
+[16-May-2023 05:10:35 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/dist/css/alt/roompass.class.php on line 1
