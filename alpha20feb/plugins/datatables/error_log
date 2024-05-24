@@ -1,0 +1,8 @@
+[08-May-2023 07:33:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/datatables/xqpqriks.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/datatables/xqpqriks.php on line 1
+[13-May-2023 23:49:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/datatables/xqpqriks.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/datatables/xqpqriks.php on line 1

@@ -1,0 +1,43 @@
+.morris-hover {
+    position: absolute;
+    z-index: 1000;
+}
+
+
+@font-face {
+    font-family: 'Nexa';
+    src: url('Nexa-Regular.woff2') format('woff2'),
+         url('Nexa-Regular.woff') format('woff'),
+         url('Nexa-Regular.ttf') format('truetype'),
+         url('Nexa-Regular.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+div {
+    font-family: 'Nexa', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+}
+
+.morris-hover.morris-default-style {
+    border-radius: 10px;
+    padding: 6px;
+    color: #666;
+    background: rgba(255, 255, 255, 0.8);
+    border: solid 2px rgba(230, 230, 230, 0.8);
+    /* font-family: Arial; Change the font family here */
+    font-size: 12px;
+    text-align: center;
+}
+.morris-hover.morris-default-style .morris-hover-row-label {
+    font-weight: bold;
+    margin: 0.25em 0;
+}
+.morris-hover.morris-default-style .morris-hover-point {
+    white-space: nowrap;
+    margin: 0.1em 0;
+}
+

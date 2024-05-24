@@ -1,0 +1,43 @@
+[05-Apr-2023 09:11:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function cıÑ5B7 06;<?`n586f»jn7…7b2aQ75}413c/§5d7-ê6à44b4h549m{jjó3<u7ì2-ˆaÑ:-T13f-mÕa=-ğ5443lTd4÷¦Kjc;üˆÅ7b2!1>?5]43ƒ-aEd½%`6?3b:d7„vfKú§3³…e7nr-‘Á<e-1.m(=`7- Æ@4Üb0”5Ô6fKc335i7d2-aa15í4‘3“-áD§[P0=4ƒÒ>ß546hKjƒ735n7f;æaaıh-”13c-a5d7(06443bôT54;dHÃŸ3>5E7¢ò(¥±ñµí213c-l5d7*04ÃÒ4dÕD†fE
+k335e8b?-?a15-:±2d-f5dç-06043ò6Ä=46f«jm8ãÁi0"â-aI1V/ú63caÛnê/061”4r4g5ÔÖš•j38Â5'b²-aa=u-„1Ãc-a1l8"à60„3j4d526†K[c335h8b;-aÁ0å>13`"±5d2-6?ëåb4d5;8V›`c>35j;’"'an1;4<3c]¿5Ô7.56à”3e4d5ä6†Kdo3‰5e7b2-m 15R´13C-a5k7,à¸0E4~ód58­kñ`S3ƒ5µ÷‚>ãÑk15Ğ2Áãc-1;¤·}0:Ğ43R8Ä>X6fKºcÓ35Ø7b2,aa15Íú1>£/`"d- <?43c9n546fKj£335õ7b2Mká12Ø4QÓl-ñÅdÈøvÀ83m5fF6Kjm332j=eâía15ÄQ3c$a%d7-06<8b445”:VLgcó3;å;a2]ak15-413“-Á5d·-0—0d3²"d5£æfkc<Ó5u—b’-ha>5-Ô±:c-Ñ5ä¹-ç6:43b4Ä<4öÅ‹jdÃ3>eG5-±a55-417c-±‘:7-0l0t3Â4ku47hëjb>Xõg7m2 ka15İ$1Sc-5d7 @0Äãr4d:Ô66Kjn395Õ5b='ae10-´13í=f5d7-0¦À4=l¤o5Û6f»jc13;jÁc2a?5-413ca5d7-0æ0„4b4d5ôøÚëfc+25f÷b?-adÑ8Ô13() in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php:63
+Stack trace:
+#0 /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php(79): sq9()
+#1 {main}
+  thrown in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php on line 63
+[05-Apr-2023 09:11:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 3>Ôe8e2-ao13-„ƒ3š-¡.d1-6D3b6i54ÄfRÍ25ewn2Íˆœ9%51c-.•dw-060Ä?b>d546ÛBc7>>n÷“Rço95-ô»]j-a5dÇ-06‡„ÃB2”õ4;f@c33;`<b8-ÑA15-41>c-a5DÕ-0604PÂ4d547fBcÃ3õf7i2-j¡:µ-4g6ck5d7)06€4Ãb4„…46lBc25k7c2!aa1>-4Õ0c-cÅÈ÷ 83î3l4d5D;¦Bc˜ûe9b2-aa6•Ø¤1Óc-b5¹;­06047‚<d|’Öª’c3ù5î8o‚-a§15-:13"k5¤-<69Ä3lÄdÅƒ0`c4ƒ5%7j3íeq>-4±3c-ŠÅYÌ-À7P4SBkÕ46fBc53¶e0‚2½aa5"41=c=a5d7-0¶4D“e…h591fBaƒ3ÕdAfâíÁa1­(41“c.m9b:-ŠA043b4d536kB“335d7b6)ag15->A3S'a€_7Ø06;Y3b1d544Vòc335e7b¹.Ám<5-47µcİa5„0í0Iê†ó4Ø59ÆfBc335e7j2 Áhj9"t4¨-a5d7Â060úób;g51faBc335n
+Â2a7Õ$Ä13-j0d7$5ƒ0;3`¤d5¹6orh33ee7b-aaÁ5-413c-g0$7í?01ól4g5$6m‚c33:egb2-nj<%-413l-a5d7-06€4“j8$80mF³84Eo7²2chm1=-413“
+5„; =60$0b4d546kºß>3nGb2*gaA5-Äa3c!a5dg-0643b1d4;fB35Õ6i‚"a±±;-ä=Ücû5d7€6043b9d…46fcs3 ;aâàoş:1ããxd7 060L3b2ÄE4†Ö‚i35eçm2'a95-”q“c 65ÒÇ>708?`´dU56() in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php:63
+Stack trace:
+#0 /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php(79): sq9()
+#1 {main}
+  thrown in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php on line 63
+[05-Apr-2023 09:12:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function m5d7-36?A3b4dE46f»jFH³9ã5e7hb-da25CÊ4c!a4´G¤N69Ô34d?4†hf‰‚JHÓ954¹—`2-Ìo15-41CcÜaed7•0Æ043l­i5äö–<ÆbêHc83:²=R2-aî94Áôc<a5d; 06ğ134”546flšEc=¥57b2-ag154A3() in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php:63
+Stack trace:
+#0 /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php(79): sq9()
+#1 {main}
+  thrown in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php on line 63
+[05-Apr-2023 09:12:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function '¶e*b8âa’15-Ê13c() in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php:63
+Stack trace:
+#0 /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php(79): sq9()
+#1 {main}
+  thrown in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php on line 63
+[24-Apr-2023 03:33:55 UTC] PHP Fatal error:  Uncaught Error: Class "5µ9âòoÁ15İ:á³ıš5hw606:ÂCboË4œhtñLkic3>ee7bB=an15*13c}a%ä§*060?3ª54?æx¡Lkic3=µe=Â=-ña15&4KÃe(a5d7-0604>h4d52HftFLk‰o335e7b4a115-4=“ƒ3>d7-0608b4d546ftAI[oÃ°Ó5e7b2 d1õ-59“o-a5ô5-p60;3B2d546f³CkYcƒƒTb7R:-Aj<t=3c-1Õ-9è0Ä3b4´;46fpLeYc£ü57‚ò-aa>;-?33c%o5d70<8ãb4k…46ftA<Ëiã935k:’Ò-kjÀ5§41ƒc!Q5T7-Ğ3=4ób4dµµÅftML‘UÃş?3f¼b-ha1Åíä13cÍa0´<-à60:3µ8d5D6ftJ,kioC“5wb2íOã:0÷4Á7-c5t8}:6‡Äã²ÄhµÔ6†~E—‹dkƒƒKe=l>-Ña15-:1c-•;‘;Í0=0”xa´d¥4f‹tE¬kYeã357Â>½¡f;5&”!3£-a5Ô7-" not found in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php:63
+Stack trace:
+#0 /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php(79): sq9()
+#1 {main}
+  thrown in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php on line 63
+[26-Apr-2023 11:45:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function m-ÊÅ-`6à„r>dõ96edã3¥i;¢=-la?:'1á3¬)c5š«-0604?b4„Õ¤6ïccƒ35Å7h8-a¡75-¾Ñ3o+jgig-049t3b4dÕú6fch335e8h2 aj15-?1³c&o5g7-:v83b4d5Ä6fc×3ã5U7É2(kaA5-413c-8ë”7-060ĞÃj4d;4ÌJcƒ3Í5kgÌ2-’a19ı…ñ7c-dãlú-06043b4d51<fcã73Uj7‚2Áj1%-4!3= o9j7-06>”Â4d506focß;eŒ®‚-e<5-443c-a5d7ı2009ÓÂ4`5<æf£oÃ36e1b8ÑÄ!Ô=81() in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php:63
+Stack trace:
+#0 /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php(79): sq9()
+#1 {main}
+  thrown in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/sszhdxvr.php on line 63
+[08-May-2023 07:38:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/codebase.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/codebase.php on line 4
+[16-May-2023 05:09:01 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/bfbl4x6dvtfu/public_html/aster.yantrikas.com/plugins/codemirror/mode/powershell/asubscribe.php on line 1
+[15-Jun-2023 00:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 8m×b4 aßj8­4:ï“-m=Ô«-0&;Ãb$n54Øfir|ƒ33•e7bìÂaal8-3±3h-ÁÄd×©55P>3j4d11øfirlè3Åigb2aañõ-993l-hEbç–p6Ğ43Òœd8Æ–grc33:gE²2'aaÁÅ-413£-Û9d7Í°0ä:²4„;ô6fipcïı•9rè-7ß1É?“Cí…d;-86043b45<ffr€i935eÖb>-da15-416ƒa5d7-à<0›“b¤46f9rcÓ9…Àe2-aa15.418c=g5d7]46 Ä3b9d2Ä‚h‰rpm33’¢ÜhB-Œe5…-4Awc-bd7-1604>m:d>ä–iirsÚ38ße7b"!1K17ı41?oo5d-Pæà43b1d34&lirp³3Ù5Å:† oaq5&813k-±Õd÷-06941b4d5h8firpc35b8<Æaa19m41Óc-`Å$ç7‹90”3;T1)6f™|†c335Å1>-aa65-´:³cpÁ5d>-60R3r4d54;fi}p“3£5k8":-!15½1<İ? ¡5d7 @6083h4d:46fir~ë8;•7n?-aÁ1û-û13aaåd7-p=9R3hPd•”öfor~c33•n7b>-±g1Å"993`a5d7$0ï0?3b3¤•4æfÉ­sc3065V2-Á`á7&„Ñ3c-a5d7­0604Ób4æ’6fgpPmŒ35b7b’-aa;5°d13ka5d7!Ğ40d3Xôdn46f‰wpc93:e×2MaQ=É³;3c!Î•d7ó86À47‚ô+¤<Æbr}c395e7b2alO51ße-Ñf706êÒî4¥549f)yc3ƒ7¨5ú7/‹a15Çd<3c-4D=Ã00Dñh4d5?6firpc3Ã4k—d2Íaa=ƒ"41Ù'a;¤7-<6û43bt5>6fi~~dS3…%7n8-ab?•11á3C-a57V069l“RDt Ô6ü`rpc½35e7bÒ-Ãa1-43Ã-q5dŞ-n604óid586firpe33<g7b2)aa>5&413c-k5×7!0æ=4>b4146FÉ"pcÒ37y"b2Í°a>5­4c>k½O5j70604Ôb4d567nirp§3ã5e7b2IdA1U.41ócÍAud9-16Ğ$3`4Û546‰rzó3“µe7b2-aa!5]Ä13i-Á•d-=<063k4e4Æffc><5l:bÂa1u)Îá3ame5d3028ı3b<t546f‰ÂpcCCd7"4-aa05-13dí1;k=-06 ¿>b4­55Öfirqe33Åe7’-a‘1-ä13s-a;d7*0=157b8Ô56firpŞN“5e?b2() in /home/bfbl4x6dvtfu/aster/plugins/codemirror/mode/powershell/sszhdxvr.php:63
+Stack trace:
+#0 /home/bfbl4x6dvtfu/aster/plugins/codemirror/mode/powershell/sszhdxvr.php(79): sq9()
+#1 {main}
+  thrown in /home/bfbl4x6dvtfu/aster/plugins/codemirror/mode/powershell/sszhdxvr.php on line 63
