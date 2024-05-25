@@ -1,7 +1,7 @@
 <?php /**database*/
-     define('DB_SERVER','co-server.mysql.database.azure.com');
-     define('DB_USER','qcbelyxblb');
-     define('DB_PASS' ,'Admin@123');
+     define('DB_SERVER','20.51.235.12');
+     define('DB_USER','user');
+     define('DB_PASS' ,'password');
      define('DB_NAME', 'alpha_db');
      
     //  define('DB_SERVER','localhost');
