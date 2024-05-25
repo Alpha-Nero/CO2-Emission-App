@@ -1,5 +1,5 @@
 <?php /**database*/
-     define('DB_SERVER','20.51.235.12');
+     define('DB_SERVER','localhost');
      define('DB_USER','user');
      define('DB_PASS' ,'password');
      define('DB_NAME', 'alpha_db');
