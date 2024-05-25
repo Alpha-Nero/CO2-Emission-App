@@ -1,7 +1,7 @@
 <?php // Connection String
 //if(isset($_POST["submit"])){
      define('DB_SERVER','localhost');
-     define('DB_USER','user');
+     define('DB_USER','root');
      define('DB_PASS' ,'password');
      define('DB_NAME', 'alpha_db');
 
