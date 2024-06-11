@@ -63,7 +63,7 @@ require 'header.php';
                      $data_month=array();
 
                      //fetchin data from table consumption
-                     $sql = "SELECT distinct   year from emission_factors  order by  emission_factors_id desc";
+                     $sql = "SELECT distinct year from emission_factors  order by  emission_factors_id desc";
                     
                      $result = mysqli_query($conn, $sql);
 
